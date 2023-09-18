@@ -1,0 +1,29 @@
+.searchResultContainer {
+    /* border:2px solid red; */
+    overflow-y: scroll;
+}
+
+.searchContainer22 {
+    margin-bottom: 1rem;
+}
+
+.searchContainer22 h3 {
+    width: 5%;
+    /* border: 1px solid red; */
+}
+
+.searchContainer22 div {
+    width: 60%;
+    /* border: 2px solid green; */
+}
+
+.searchContainer22 a {
+    width: 15%;
+    /* border: 1px solid red; */
+    padding: 0.3rem;
+    background-color: rgb(202, 198, 198);
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    /* box-shadow: 2px 2px 5px black; */
+}
